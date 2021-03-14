@@ -1,0 +1,34 @@
+.container {
+    background-color: #00BFA6;
+}
+.alert {
+    margin-left: 33%;
+}
+
+.btn-tosca{
+    background-color: #00BFA6 ;
+}
+.creteround{
+    font-family: creteround;
+    font-size: 20px;
+}
+@font-face {
+    font-family: crete;
+	src: url('../font/Crete.ttf');
+}
+@font-face {
+    font-family: crete;
+	src: url('../font/Crete.ttf');
+}
+.crete{
+	font-family: crete;
+    font-size:45px;
+}
+@font-face {
+    font-family: patuaone;
+	src: url('../font/PatuaOne.ttf');
+}
+.patuaone{
+    font-family: patuaone;
+    font-size: 35px;
+}

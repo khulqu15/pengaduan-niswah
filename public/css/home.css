@@ -1,0 +1,46 @@
+.navbar{
+    background-color:  #00BFA6  ;
+}
+.bg-tsca {
+    background-color:  #00BFA6  ;
+}
+@font-face {
+    font-family: breeserif;
+	src: url('../font/BreeSerif.ttf');
+}
+.breeserif{
+    font-family: breeserif;
+    font-size: 23px;
+}
+@font-face {
+    font-family: acme;
+	src: url('../font/Acme.ttf');
+}
+.acme{
+    font-family: acme;
+    font-size: 22px;
+}
+@font-face {
+    font-family: patuaone;
+	src: url('../font/PatuaOne.ttf');
+}
+.patuaone{
+    font-family: patuaone;
+    font-size: 45px;
+}
+
+.text-tosca{
+    color: #00BFA6 !important;
+}
+@font-face {
+    font-family: patua;
+	src: url('../font/Patua.ttf');
+}
+.patua{
+	font-family: patua;
+    font-size:30;
+}
+.btn{
+    background-color: #00BFA6  ;
+  
+}

@@ -1,0 +1,20 @@
+.navbar{
+    background: #00BFA6; 
+  }
+  .bg-tsca {
+  background-color: #15907F;
+  }
+  .display-4{
+  font-weight: bold;
+  }
+  .card-body-icon {
+  position: absolute;
+  z-index: 0;
+  top: 25px;
+  right: 4px;
+  opacity: 0.4;
+  font-size: 90px;
+  }
+.no-gutters {
+      min-height: 100vh!important;
+  }
